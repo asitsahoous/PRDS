@@ -1,4 +1,10 @@
-# Case Management Platform — Epics
+# Case Management Platform — Epics (V1: single application scope)
+
+> **Superseded in scope by [`platform-epics.md`](./platform-epics.md).** This
+> version models one case management application. If the goal is a
+> platform that *builds and renders* case management applications
+> (Appian/Pega/Camunda-style), see `platform-epics.md` instead — it keeps
+> everything below as the case-instance slice of a larger system.
 
 The source list had one row per *story*, with the story text sitting in the
 "Epic Summary" column — so no epic actually had a real summary, and a couple
